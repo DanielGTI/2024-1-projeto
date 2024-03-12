@@ -1,6 +1,6 @@
 ## PROJETO PRÁTICO EM SISTEMAS ou PROJETO EM EMPREENDEDORISMO ou PROJETO E MODELAGEM DE SISTEMAS DE SOFTWARE.
 * **Dia:** terça-feira e sexta-feira (Pré-aula). sexta-feira (pós-aula)
-* **Período:** noite
+* **Período:** manhã/noite
 
 ## Descrição
 
