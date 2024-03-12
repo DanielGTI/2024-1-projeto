@@ -55,7 +55,7 @@ Prof.  Daniel Ferreira de Barros Junior. - ([danielf@uni9.pro.br](mailto:danielf
 
 
 ## Contato
-Em caso de dúvidas encaminhe-me um e-mail, sempre informando seu **RA**, **Nome** e o nome deste repositório **(projeto 2024-2)** no título da mensagem.
+Em caso de dúvidas encaminhe-me um e-mail, sempre informando seu **RA**, **Nome** e o nome deste repositório **(projeto 2024-1)** no título da mensagem.
 
 
 ## Dicas
