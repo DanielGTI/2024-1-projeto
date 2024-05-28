@@ -44,8 +44,8 @@ Sem o correto preenchimento do formulário o trabalho não será corrigido.
 * **07/06/2024** 
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na Cloud ou hospedagem.
-	+ Preenchimento do formulário formalizando a entrega do projeto. **Link:** (será disponibilizado em 27/05)
-  + Link do vídeo de apresentação do projeto, com no mínimo de 5 minutos. (link do youtube)
+	+ Preenchimento do formulário formalizando a entrega do projeto. **Link:** https://forms.gle/5QJ1a7WieqHfNFZB6 (atualizado em 28/05)
+  + Link do vídeo de apresentação do projeto, com no mínimo de 5 minutos, deve constar no repositório do github. (link do youtube)
   + Atenção: Informar todos os alunos no formulário, conforme exemplo indicado no link.
 
     
